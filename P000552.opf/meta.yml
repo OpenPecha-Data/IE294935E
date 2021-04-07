@@ -10,66 +10,79 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 752
+      base_file: v001.txt
     b09605e5dd9c4472ad601ce13d919436:
       image_group_id: I5889
       title: ''
       volume_number: 2
       total_pages: 588
+      base_file: v002.txt
     1e256be0caa243ee994e9fc12099a2ea:
       image_group_id: I5890
       title: ''
       volume_number: 3
       total_pages: 604
+      base_file: v003.txt
     bb84563ac8ad4ab584cdc62f90b68c70:
       image_group_id: I5891
       title: ''
       volume_number: 4
       total_pages: 528
+      base_file: v004.txt
     00fd36dbb02647479833a43e58627ecd:
       image_group_id: I5892
       title: ''
       volume_number: 5
       total_pages: 476
+      base_file: v005.txt
     b00a3feeb3cd47e882490598a0f74aa9:
       image_group_id: I5893
       title: ''
       volume_number: 6
       total_pages: 432
+      base_file: v006.txt
     798e975e0f034702babb506a06d8e8e6:
       image_group_id: I5894
       title: ''
       volume_number: 7
       total_pages: 428
+      base_file: v007.txt
     38e139207ede49cb86d13b36fe234fe9:
       image_group_id: I5895
       title: ''
       volume_number: 8
       total_pages: 556
+      base_file: v008.txt
     bfbe0c4f948c468fb2c4e2a6cd3de708:
       image_group_id: I5896
       title: ''
       volume_number: 9
       total_pages: 550
+      base_file: v009.txt
     a83e94fb8f2743b39fb69853e7de80c9:
       image_group_id: I5897
       title: ''
       volume_number: 10
       total_pages: 510
+      base_file: v010.txt
     4fe459bc258348db81661e217f45d3b2:
       image_group_id: I5898
       title: ''
       volume_number: 11
       total_pages: 506
+      base_file: v011.txt
     c8b7ab75889d4d9fb8c14af80e2d1460:
       image_group_id: I5899
       title: ''
       volume_number: 12
       total_pages: 624
+      base_file: v012.txt
     5c128727a0f04438918c7c6c2a8fc722:
       image_group_id: I5900
       title: ''
       volume_number: 13
       total_pages: 520
+      base_file: v013.txt
 ebook_metadata:
   title: གསུང་འབུམ། བཞད་པའི་རྡོ་རྗེ།
   author: ''
