@@ -1,5 +1,7 @@
 id: P000552
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W22130
   title: གསུང་འབུམ། བཞད་པའི་རྡོ་རྗེ།
@@ -83,10 +85,3 @@ source_metadata:
       volume_number: 13
       total_pages: 520
       base_file: v013.txt
-ebook_metadata:
-  title: གསུང་འབུམ། བཞད་པའི་རྡོ་རྗེ།
-  author: ''
-  sku: P000552
-  cover: cover.jpg
-  layers:
-  - pagination
